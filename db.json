@@ -1,0 +1,45 @@
+{
+  "tarefas": [
+    {
+      "titulo": "Agendar reuniões",
+      "id": 2
+    },
+    {
+      "titulo": "Teste",
+      "id": 3
+    },
+    {
+      "titulo": "😊",
+      "id": 4
+    },
+    {
+      "titulo": "teste top",
+      "id": 5
+    },
+    {
+      "titulo": "Teste",
+      "id": 6
+    },
+    {
+      "titulo": "Teste",
+      "id": 7
+    }
+  ],
+  "novidades": [
+    {
+      "titulo": "VW deixará de oferecer Golf GTI manual a partir de 2024; entenda",
+      "link": "https://motor1.uol.com.br/news/684527/vw-golf-gti-deixara-manual/",
+      "id": 1
+    },
+    {
+      "titulo": "VW confirma volta da Kombi ao Brasil... elétrica e por assinatura",
+      "link": "https://motor1.uol.com.br/news/675139/vw-confirma-volta-kombi-ao-brasil/",
+      "id": 2
+    },
+    {
+      "titulo": "Nova VW Saveiro 2024 muda para ganhar espaço contra a Fiat Strada",
+      "link": "https://motor1.uol.com.br/news/683561/lancamento-vw-saveiro-2024-mudancas/",
+      "id": 3
+    }
+  ]
+}
