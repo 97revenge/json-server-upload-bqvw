@@ -36,6 +36,16 @@
       "setor": "123",
       "password": "12345",
       "id": 1
+    },
+    {
+      "email": "leonardo.co.de23@gmail.com",
+      "password": "$2a$10$dj2P6e9rx93Le0nDsJFgZekRA35pb33PEWpT/3Zf2aeull3NxGkmW",
+      "vwId": "30068",
+      "nome": "Leonardo da silva santos",
+      "direcao": "vw",
+      "gestor_imediato": "Andre",
+      "setor": "Administrativo",
+      "id": 2
     }
   ]
 }
