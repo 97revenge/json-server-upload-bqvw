@@ -7,22 +7,6 @@
     {
       "titulo": "Teste",
       "id": 3
-    },
-    {
-      "titulo": "😊",
-      "id": 4
-    },
-    {
-      "titulo": "teste top",
-      "id": 5
-    },
-    {
-      "titulo": "Teste",
-      "id": 6
-    },
-    {
-      "titulo": "Teste",
-      "id": 7
     }
   ],
   "novidades": [
@@ -40,6 +24,18 @@
       "titulo": "Nova VW Saveiro 2024 muda para ganhar espaço contra a Fiat Strada",
       "link": "https://motor1.uol.com.br/news/683561/lancamento-vw-saveiro-2024-mudancas/",
       "id": 3
+    }
+  ],
+  "users": [
+    {
+      "vw_id": "12345",
+      "nome": "Thamires Galdino",
+      "email": "thami@vw.emp",
+      "direcao": "Fabrício M.",
+      "gestor_imediato": "Fabrício M.",
+      "setor": "123",
+      "password": "12345",
+      "id": 1
     }
   ]
 }

@@ -57,4 +57,5 @@ server.listen(port, () => {
     console.log("\x1b[1m%s\x1b[0m", "\nRecursos disponíveis: ")
     console.log("\nhttp://localhost:3000/tarefas")
     console.log("\nhttp://localhost:3000/novidades")
+    console.log("\nhttp://localhost:3000/users")
 })
