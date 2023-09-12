@@ -1,14 +1,5 @@
 {
-  "tarefas": [
-    {
-      "titulo": "Agendar reuniões",
-      "id": 2
-    },
-    {
-      "titulo": "Teste",
-      "id": 3
-    }
-  ],
+  "tarefas": [],
   "novidades": [
     {
       "titulo": "VW deixará de oferecer Golf GTI manual a partir de 2024; entenda",
@@ -28,23 +19,23 @@
   ],
   "users": [
     {
-      "vw_id": "12345",
-      "nome": "Thamires Galdino",
-      "email": "thami@vw.emp",
-      "direcao": "Fabrício M.",
-      "gestor_imediato": "Fabrício M.",
-      "setor": "123",
-      "password": "12345",
+      "email": "testecadastro@email.com",
+      "password": "$2a$10$pkfFVNC1xNG2IVjVkkphD.JTMNvQtZAovNtpR/HRyNUuaLF21wHIC",
+      "vwId": "12345",
+      "nome": "Teste cadastro",
+      "gestor_imediato": "tste gestor",
+      "setor": "200",
+      "user_img": "",
       "id": 1
     },
     {
-      "email": "leonardo.co.de23@gmail.com",
-      "password": "$2a$10$dj2P6e9rx93Le0nDsJFgZekRA35pb33PEWpT/3Zf2aeull3NxGkmW",
-      "vwId": "30068",
-      "nome": "Leonardo da silva santos",
-      "direcao": "vw",
-      "gestor_imediato": "Andre",
-      "setor": "Administrativo",
+      "email": "testeimg@email.com",
+      "password": "$2a$10$gGLoRWpdxPoKZLZFDrlJTODGe.j07yUW9ID8beRBrZuHN0pHxhJmi",
+      "vwId": "32165",
+      "nome": "Teste imagem",
+      "gestor_imediato": "Teste gestor",
+      "setor": "200",
+      "user_img": "https://firebasestorage.googleapis.com/v0/b/bqvw-bc2fc.appspot.com/o/area-colaborador%2Favatar%202.png?alt=media&token=95bac589-8541-4416-8834-fb899e31f09a",
       "id": 2
     }
   ]

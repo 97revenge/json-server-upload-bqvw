@@ -39,13 +39,13 @@ server.use(middlewares)
 
 server.use(upload.any())
 
-// server.use((req, res, next) => {
-//     if (req.originalUrl === "/users") {
-//         req.body = {...req.body, user_img: imagem}
-//     }
+server.use((req, res, next) => {
+    if (req.originalUrl === "/users") {
+        req.body = {...req.body, user_img: imagem}
+    }
 
-//     next()
-// })
+    next()
+})
 
 server.use(auth)
 
