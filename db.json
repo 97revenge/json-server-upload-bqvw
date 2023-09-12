@@ -37,6 +37,15 @@
       "setor": "200",
       "user_img": "https://firebasestorage.googleapis.com/v0/b/bqvw-bc2fc.appspot.com/o/area-colaborador%2Favatar%202.png?alt=media&token=95bac589-8541-4416-8834-fb899e31f09a",
       "id": 2
+    },
+    {
+      "email": "murilo@gmail.com",
+      "password": "$2a$10$kWSMM0ZtiqCXMLs9HwERo.4MhMqdksmJcMIJ6dmtPd82Inlf4rciW",
+      "vwId": "12345",
+      "nome": "Murilo",
+      "gestor_imediato": "leo",
+      "setor": "ti",
+      "id": 3
     }
   ]
 }
