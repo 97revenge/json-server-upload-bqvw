@@ -19,33 +19,54 @@
   ],
   "users": [
     {
-      "email": "testecadastro@email.com",
-      "password": "$2a$10$pkfFVNC1xNG2IVjVkkphD.JTMNvQtZAovNtpR/HRyNUuaLF21wHIC",
-      "vwId": "12345",
-      "nome": "Teste cadastro",
-      "gestor_imediato": "tste gestor",
+      "email": "thamigaldino@email.com",
+      "password": "$2a$10$11H1MXbvx1NP08kwgTLgG.jUrHEes07X54b0cd7h2hXW1H4C42Xee",
+      "vwId": "123-45",
+      "nome": "Thamires Galdino",
+      "gestor_imediato": "Gestor",
       "setor": "200",
       "user_img": "",
       "id": 1
     },
     {
-      "email": "testeimg@email.com",
-      "password": "$2a$10$gGLoRWpdxPoKZLZFDrlJTODGe.j07yUW9ID8beRBrZuHN0pHxhJmi",
-      "vwId": "32165",
-      "nome": "Teste imagem",
-      "gestor_imediato": "Teste gestor",
-      "setor": "200",
-      "user_img": "https://firebasestorage.googleapis.com/v0/b/bqvw-bc2fc.appspot.com/o/area-colaborador%2Favatar%202.png?alt=media&token=95bac589-8541-4416-8834-fb899e31f09a",
+      "email": "andresalezze@email.com",
+      "password": "$2a$10$pftq6R6Z3ugJ3gTycNqS.OM9VgUJRXVOxbNZEAMhmJbTRa80dPeBK",
+      "vwId": "321-65",
+      "nome": "André Salezze",
+      "gestor_imediato": "Gestor",
+      "setor": "201",
+      "user_img": "",
       "id": 2
     },
     {
-      "email": "murilo@gmail.com",
-      "password": "$2a$10$kWSMM0ZtiqCXMLs9HwERo.4MhMqdksmJcMIJ6dmtPd82Inlf4rciW",
-      "vwId": "12345",
-      "nome": "Murilo",
-      "gestor_imediato": "leo",
-      "setor": "ti",
+      "email": "leosantos@email.com",
+      "password": "$2a$10$zFN415JslOS.VYVpV9SeqeYfy6EOvBigPywytS4X9yJAqAw.s/HOe",
+      "vwId": "452-12",
+      "nome": "Léo Santos",
+      "gestor_imediato": "Gestor",
+      "setor": "202",
+      "user_img": "",
       "id": 3
+    },
+    {
+      "email": "ingridkyle@email.com",
+      "password": "$2a$10$VYnp.D8c.BqJ1m0bSs4/wuzVb8aR3nY2d0KT2FPGnyu.jh9mBvxgy",
+      "vwId": "265-89",
+      "nome": "Ingrid Brunna",
+      "gestor_imediato": "Gestor",
+      "setor": "203",
+      "user_img": "",
+      "id": 4
+    },
+    {
+      "email": "matheuspereira@email.com",
+      "password": "$2a$10$asWEJnwPP8urzbdI783kROmTOrZoIzcyX8IuQDiXfN.k2ZWCGjlUS",
+      "vwId": "458-79",
+      "nome": "Matheus Pereira",
+      "gestor_imediato": "Gestor",
+      "setor": "204",
+      "user_img": "",
+      "id": 5
     }
   ]
 }
