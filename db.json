@@ -25,7 +25,7 @@
       "nome": "Thamires Galdino",
       "gestor_imediato": "Gestor",
       "setor": "200",
-      "user_img": "",
+      "user_img": "https://firebasestorage.googleapis.com/v0/b/bqvw-bc2fc.appspot.com/o/area-colaborador%2Favatar%201.png?alt=media&token=3c12bfe2-90cc-45f4-bae4-c720b79df953",
       "id": 1
     },
     {
@@ -35,7 +35,7 @@
       "nome": "André Salezze",
       "gestor_imediato": "Gestor",
       "setor": "201",
-      "user_img": "",
+      "user_img": "https://firebasestorage.googleapis.com/v0/b/bqvw-bc2fc.appspot.com/o/area-colaborador%2Favatar%203.png?alt=media&token=37d827a5-cac0-4a7e-8a04-426f1bc81386",
       "id": 2
     },
     {
@@ -45,7 +45,7 @@
       "nome": "Léo Santos",
       "gestor_imediato": "Gestor",
       "setor": "202",
-      "user_img": "",
+      "user_img": "https://firebasestorage.googleapis.com/v0/b/bqvw-bc2fc.appspot.com/o/area-colaborador%2Favatar%205.png?alt=media&token=47fdb072-16e6-459f-8447-f407df8f7dc5",
       "id": 3
     },
     {
@@ -55,17 +55,17 @@
       "nome": "Ingrid Brunna",
       "gestor_imediato": "Gestor",
       "setor": "203",
-      "user_img": "",
+      "user_img": "https://firebasestorage.googleapis.com/v0/b/bqvw-bc2fc.appspot.com/o/area-colaborador%2Favatar%204.png?alt=media&token=4bc4599d-d267-46fe-9b45-7b5c419a9a36",
       "id": 4
     },
     {
       "email": "matheuspereira@email.com",
-      "password": "$2a$10$asWEJnwPP8urzbdI783kROmTOrZoIzcyX8IuQDiXfN.k2ZWCGjlUS",
+      "password": "$2a$10$0FYHUKCJhRC59ROGVQTAXe26P1U0CWEI5/43awwOZoLaw7n.A1.je",
       "vwId": "458-79",
       "nome": "Matheus Pereira",
       "gestor_imediato": "Gestor",
       "setor": "204",
-      "user_img": "",
+      "user_img": "https://firebasestorage.googleapis.com/v0/b/bqvw-bc2fc.appspot.com/o/area-colaborador%2Favatar%202.png?alt=media&token=95bac589-8541-4416-8834-fb899e31f09a",
       "id": 5
     }
   ],
