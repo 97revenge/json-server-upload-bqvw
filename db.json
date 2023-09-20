@@ -1,5 +1,10 @@
 {
-  "tarefas": [],
+  "tarefas": [
+    {
+      "titulo": "Teste user 2",
+      "id": 1
+    }
+  ],
   "novidades": [
     {
       "titulo": "VW deixará de oferecer Golf GTI manual a partir de 2024; entenda",
@@ -26,7 +31,17 @@
       "gestor_imediato": "Gestor",
       "setor": "200",
       "user_img": "https://firebasestorage.googleapis.com/v0/b/bqvw-bc2fc.appspot.com/o/area-colaborador%2Favatar%201.png?alt=media&token=3c12bfe2-90cc-45f4-bae4-c720b79df953",
-      "id": 1
+      "id": 1,
+      "tarefas": [
+        {
+          "titulo": "Verificar tarefas no trello",
+          "id": 1
+        },
+        {
+          "titulo": "Alinhar pendências",
+          "id": 2
+        }
+      ]
     },
     {
       "email": "andresalezze@email.com",
@@ -36,7 +51,12 @@
       "gestor_imediato": "Gestor",
       "setor": "201",
       "user_img": "https://firebasestorage.googleapis.com/v0/b/bqvw-bc2fc.appspot.com/o/area-colaborador%2Favatar%203.png?alt=media&token=37d827a5-cac0-4a7e-8a04-426f1bc81386",
-      "id": 2
+      "id": 2,
+      "tarefas": [
+        {
+          "titulo": "Gerenciar documentos"
+        }
+      ]
     },
     {
       "email": "leosantos@email.com",
@@ -46,7 +66,15 @@
       "gestor_imediato": "Gestor",
       "setor": "202",
       "user_img": "https://firebasestorage.googleapis.com/v0/b/bqvw-bc2fc.appspot.com/o/area-colaborador%2Favatar%205.png?alt=media&token=47fdb072-16e6-459f-8447-f407df8f7dc5",
-      "id": 3
+      "id": 3,
+      "tarefas": [
+        {
+          "titulo": "Agendar reuniões"
+        },
+        {
+          "titulo": "Criar design X"
+        }
+      ]
     },
     {
       "email": "ingridkyle@email.com",
@@ -56,7 +84,12 @@
       "gestor_imediato": "Gestor",
       "setor": "203",
       "user_img": "https://firebasestorage.googleapis.com/v0/b/bqvw-bc2fc.appspot.com/o/area-colaborador%2Favatar%204.png?alt=media&token=4bc4599d-d267-46fe-9b45-7b5c419a9a36",
-      "id": 4
+      "id": 4,
+      "tarefas": [
+        {
+          "titulo": "Verificar pendências"
+        }
+      ]
     },
     {
       "email": "matheuspereira@email.com",
@@ -65,8 +98,13 @@
       "nome": "Matheus Pereira",
       "gestor_imediato": "Gestor",
       "setor": "204",
-      "user_img": "https://firebasestorage.googleapis.com/v0/b/bqvw-bc2fc.appspot.com/o/area-colaborador%2Favatar%202.png?alt=media&token=95bac589-8541-4416-8834-fb899e31f09a",
-      "id": 5
+      "user_img": "https://firebasestorage.googleapis.com/v0/b/bqvw-bc2fc.appspot.com/o/area-colaborador%2Favatar%202.png?alt=media&token=2a6695e8-cc23-4681-abc7-a81727c12489",
+      "id": 5,
+      "tarefas": [
+        {
+          "titulo": "Tirar descanso de 15 minutos"
+        }
+      ]
     }
   ],
   "avatares": [
@@ -87,7 +125,7 @@
     },
     {
       "id": 4,
-      "url": "https://firebasestorage.googleapis.com/v0/b/bqvw-bc2fc.appspot.com/o/area-colaborador%2Favatar%202.png?alt=media&token=95bac589-8541-4416-8834-fb899e31f09a",
+      "url": "https://firebasestorage.googleapis.com/v0/b/bqvw-bc2fc.appspot.com/o/area-colaborador%2Favatar%202.png?alt=media&token=2a6695e8-cc23-4681-abc7-a81727c12489",
       "name": "lucas"
     },
     {
